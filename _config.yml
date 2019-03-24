@@ -78,5 +78,5 @@ theme: icarus
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 type: git
-  repo: https://github.com/andres-martin/am-hexo2.git
-  branch: gh-page
+repo: https://github.com/andres-martin/am-hexo2.git
+branch: gh-page
